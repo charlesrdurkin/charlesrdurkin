@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a proprietary modeling program to democratize real estate analysis
+- 🌱 I’m currently learning about web3 interoperability
+- 💬 Ask me about the future of capital markets powered by DLT
+- 📫 How to reach me: Telegram - chrdurkin
+
 
 <!--
 **charlesrdurkin/charlesrdurkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
